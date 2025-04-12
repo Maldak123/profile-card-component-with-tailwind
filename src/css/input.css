@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@100..900&display=swap');
+@import "../../node_modules/tailwindcss/dist/lib.d.mts";
+
+@layer base{
+    body{
+        font-family: "Kumbh Sans", serif;
+    }
+}
